@@ -83,24 +83,24 @@ h1{
 }
 
 #gift-img-happy:hover {
-  background-image: url("images/happy.gif");
+  background-image: url("images/love.gif");
   background-size: contain;
 }
 
 #gift-img-hot:hover {
-  background-image: url("images/look.gif");
+  background-image: url("images/code.gif");
 }
 
 #gift-img-genius:hover {
-  background-image: url("images/genuis.gif");
+  background-image: url("images/cool.gif");
 }
 
 #gift-img-badass:hover {
-  background-image: url("images/badass.gif");
+  background-image: url("images/glad.gif");
 }
 
 #gift-img-cheers:hover {
-  background-image: url("images/cheers.gif");
+  background-image: url("images/firework.gif");
   background-size: contain;
 }
 
